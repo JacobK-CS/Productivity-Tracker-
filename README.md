@@ -17,4 +17,4 @@ The best part is the analytics engine built on top of it. It calculates my input
 * Data Pipeline: Efficiently logs all metrics locally via SQLite.
 * The Logic Engine: Analyzes historical user data to calculate input ratios and catch procrastination.
 * Automated Reporting: Generates weekly productivity reports and custom desktop alerts to keep users honest.
-* 
+  
